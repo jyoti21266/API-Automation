@@ -19,6 +19,8 @@ Project Structure
 
 Create a folder like this:
 api_automation_framework/
+
+```
 │
 ├── config/
 │   └── config.json
@@ -34,5 +36,6 @@ api_automation_framework/
 │
 ├── requirements.txt
 └── pytest.ini
+```
 
 
