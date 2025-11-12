@@ -35,7 +35,6 @@ api_automation_framework/
 │   └── conftest.py
 │
 ├── requirements.txt
-└── pytest.ini
 ```
 
 
